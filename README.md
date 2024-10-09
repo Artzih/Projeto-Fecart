@@ -6,9 +6,9 @@ O projeto VR tinha como inicio ser um jogo como um questionário em que o jogado
 e outros videos reais, em si o jogo ficou pronto mas com alguns problemas em questão de implementar o VR e tempo para a fecart tivemos que mudar para o plano B que o Rosseti nos ajudou
 sendo uma demo para o VR com várias armas e mecanicas. Então aproveitamos que havia varios no mapa do jogo e fizemos um teste de tiro ao alvo com uma pistola por 1 minuto ou 2 minutos
 
-Para editar e testar o jogo VR plano A:
+Para testar o jogo VR plano A:
 
-primeiramente baixe o arquivo "Kazuo Project" NO MOODLE e depois abra o site da unity e procure pela versão do unity 2022.3.4f1 e quando baixar abra e em seguida quando o unity hub abrir clique em "add" e "add project from the disk"
+primeiramente baixe o arquivo "Kazuo Project" NO MOODLE extraia o arquivo rar e quando extrair abra e procure um arquivo Kazuo project que seja um aplicativo e abra e vc tera o jogo em mãos para testar e caso queira editar depois abra o site da unity e procure pela versão do unity 2022.3.4f1 e quando baixar abra e em seguida quando o unity hub abrir clique em "add" e "add project from the disk"
 procure o "kazuo project" baixado e extraido e abra no unity logo em seguida basta vc procurar um sinal de "play" no centro superior da tela do unity e começe a testar
 
 Para testar o jogo VR plano B:
