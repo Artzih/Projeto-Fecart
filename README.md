@@ -7,10 +7,9 @@ sendo uma demo para o VR com várias armas e mecanicas. Então aproveitamos que 
 
 Para editar e testar o jogo VR plano A:
 
-primeiramente abra o site da unity e procure pela versão do unity 2022.3.4f1 e quando baixar abra e em seguida quando o unity hub abrir clique em "add" e "add project from the disk"
+primeiramente baixe o arquivo "Kazuo Project" NO MOODLE e depois abra o site da unity e procure pela versão do unity 2022.3.4f1 e quando baixar abra e em seguida quando o unity hub abrir clique em "add" e "add project from the disk"
 procure o "kazuo project" baixado e extraido e abra no unity logo em seguida basta vc procurar um sinal de "play" no centro superior da tela do unity e começe a testar
 
 Para testar o jogo VR plano B:
 
-com o seu VR em mãos conecte ele ao PC depois no proprio pc procure o arquivo "Cenateste" e arraste para o vr em downloads nos arquivos e quando copiar o arquivo para o VR vc pode 
-desconectar o VR do PC então procure um app chamado "Mobile VR station" na loja do VR e instale, quando abrir permita que ele acesse seus arquivos depois clique em "local files" > "all folders" > "android" > "data" > "Scoped Storage Actions" > "request access" logo procure o arquivo do apk e quando baixar abra o arquivo CenaTeste que o jogo ira abrir
+Primeiramente baixe o arquivo "CenaTeste" NO MOODLE e quando baixar,com o seu VR em mãos conecte ele ao PC depois no proprio pc procure o arquivo "Cenateste" e arraste para o vr em downloads nos arquivos e quando copiar o arquivo para o VR vc pode desconectar o VR do PC então procure um app chamado "Mobile VR station" na loja do VR e instale, quando abrir permita que ele acesse seus arquivos depois clique em "local files" > "all folders" > "android" > "data" > "Scoped Storage Actions" > "request access" logo procure o arquivo do apk e quando baixar abra o arquivo CenaTeste que o jogo ira abrir
