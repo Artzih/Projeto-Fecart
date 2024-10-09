@@ -1,5 +1,6 @@
 # Projeto-Fecart
 Projeto feito durante a fecart 2024
+Arthur Kazuo Benicio Kamigashima
 
 O projeto VR tinha como inicio ser um jogo como um questionário em que o jogador dentro do vr estaria em um cinema e na tela desse cinema estáriam passando alguns videos feito por IA
 e outros videos reais, em si o jogo ficou pronto mas com alguns problemas em questão de implementar o VR e tempo para a fecart tivemos que mudar para o plano B que o Rosseti nos ajudou
